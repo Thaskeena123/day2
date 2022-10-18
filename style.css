@@ -1,11 +1,5 @@
-p,h1{
-    background-color: bisque;
-    background-image: url('https://img.xcitefun.net/users/2013/08/329970,xcitefun-chugach-national-forest-9.jpg');
-    font-size: small;
-}
-u{
-    color: navy;
-}
-i{
-    color: blueviolet;
+p{
+    text-align: center;
+    color: coral;
+    background-image: url('https://th.bing.com/th/id/OIP.9gmmHhAGK7Q93IezLHhAhgHaEo?pid=ImgDet&w=1920&h=1200&rs=1');
 }
