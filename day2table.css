@@ -1,0 +1,29 @@
+table,th,td{
+    
+    border-collapse: collapse;
+    
+    
+}
+table{
+    border: 2px solid black;
+    width:50%;
+    
+    
+}
+th{
+    height: 70px;
+    background-color: hotpink;
+    
+
+}
+h1{
+    text-align: center;
+    color: blue;
+
+}
+body{
+    background-color: bisque;
+}
+td{
+    color: blue;
+}
