@@ -1,0 +1,10 @@
+p{
+    text-align: center;
+    color: coral;
+    background-image: url('https://th.bing.com/th/id/OIP.BVKXjfYp67GA8-EoWV9SFAHaEo?pid=ImgDet&rs=1');
+    margin: 50px;
+    border: 2px solid rgba(8, 8, 224, 0.39);
+}
+body{
+    background-color: bisque;
+}
